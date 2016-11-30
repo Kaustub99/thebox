@@ -24,12 +24,12 @@
                       </block>
                     </value>
                     <next>
-                      <block type="movement_left" id="9">
+                      <block type="movement_right" id="24">
                         <next>
                           <block type="robot_delay" id="10" inline="true">
                             <value name="DELAY">
                               <block type="math_number" id="11">
-                                <field name="NUM">4000</field>
+                                <field name="NUM">1376</field>
                               </block>
                             </value>
                             <next>
@@ -38,7 +38,7 @@
                                   <block type="robot_delay" id="13" inline="true">
                                     <value name="DELAY">
                                       <block type="math_number" id="14">
-                                        <field name="NUM">2000</field>
+                                        <field name="NUM">4000</field>
                                       </block>
                                     </value>
                                   </block>
